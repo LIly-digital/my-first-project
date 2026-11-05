@@ -1,2 +1,1 @@
-测试Git emoji
-:memo:
+测试Git emoji.❤️
